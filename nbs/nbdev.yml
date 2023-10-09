@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "aiorbits"
+  site-url: "https://jbwhit.github.io/aiorbits"
+  description: "orbits with ai"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/aiorbits"
